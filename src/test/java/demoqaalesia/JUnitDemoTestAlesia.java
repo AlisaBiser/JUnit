@@ -33,7 +33,7 @@ public class JUnitDemoTestAlesia {
     }
 
 
-        @Test
+    @Test
     void simpleTest() {
         System.out.println("###         @Test simpleTest() !");
         Assertions.assertTrue(3 > 2);
